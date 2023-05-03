@@ -55,7 +55,4 @@
 Подготовка научной публикации
 
 
-# Задание 6
-Написание руководства пользователя
 
-[и еще о стиле](https://learn.microsoft.com/en-us/style-guide/grammar/verbs)
