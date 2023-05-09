@@ -8,3 +8,10 @@
 
 
 [Пример ](https://developers.google.com/style)
+
+# Задание 1
+Написание руководства пользователя
+
+[и еще о стиле](https://learn.microsoft.com/en-us/style-guide/grammar/verbs)
+
+правила и руководства подгружено в этой папке
