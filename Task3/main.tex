@@ -1,0 +1,106 @@
+\documentclass{article}
+\usepackage[T2A]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[english, russian]{babel}
+\usepackage{amsmath,amsfonts,amssymb,amsthm,mathtools} % математические шрифты
+\usepackage{geometry} % настройка полей
+\usepackage{setspace} % настройка интервала
+\usepackage{titlesec} % настройка заголовков
+\usepackage{tocloft} % настройка оглавления
+\usepackage{hyperref} % настройка гиперссылок
+\usepackage{graphicx} % настройка изображений
+\usepackage{caption} % настройка подписей к изображениям
+\usepackage{subcaption} % настройка подписей к изображениям
+\usepackage{titlesec}
+\usepackage{blindtext}
+
+% Настройка полей
+\geometry{left=3cm,right=1.5cm,top=2cm,bottom=2cm}
+
+% Настройка интервала
+\onehalfspacing
+
+% Настройка заголовков
+\titleformat{\section}[block]{\Large\bfseries}{\thesection.}{1em}{}
+\titleformat{\subsection}[block]{\Large\bfseries}{\thesubsection.}{1em}{}
+
+% Настройка оглавления
+\renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}}
+\renewcommand{\contentsname}{\centering СОДЕРЖАНИЕ}
+
+% Начало документа
+\begin{document}
+
+\begin{center}
+\Large{\textbf{Наименование министерства (ведомства) или другого структурного образования, в систему которого входит организация-исполнитель.}} \
+\Large{\textbf{Наименование (полное и сокращенное) организации - исполнителя НИР}} \
+\Large{\textbf{Индекс Универсальной десятичной классификации (УДК) по ГОСТ 7.90}} \
+\Large{\textbf{Номера, идентифицирующие отчет}} \
+\end{center}
+
+\vspace{1cm}
+
+\begin{center}
+\Large{\textbf{Наименование НИР}} \
+\Large{\textbf{Наименование отчета}} \
+\end{center}
+
+\vspace{5cm}
+
+\begin{flushleft}
+\Large{Студент: \underline{\hspace{6cm}}\ }\newline
+\Large{Руководитель практики: \underline{\hspace{6cm}}}
+\end{flushleft}
+
+\vspace{9cm}
+
+\begin{center}
+\Large{Город Дата}
+\end{center}
+
+\newpage
+
+\tableofcontents
+
+\newpage % перенос строки для удобства
+
+
+\section*{Введение}
+
+\newpage
+
+\section*{Список исполнителей}
+\addcontentsline{toc}{section}{Список исполнителей}
+
+\newpage
+
+\section{Первый раздел основной части}
+\subsection{Подраздел}
+
+\newpage
+
+\section{Второй раздел основной части}
+\subsection{Подраздел}
+
+\newpage
+
+\section*{Заключение}
+\addcontentsline{toc}{section}{Заключение}
+
+\newpage
+
+\section*{Список использованных источников}
+\addcontentsline{toc}{section}{Список использованных источников}
+
+\newpage
+
+\section*{Приложение}
+\addcontentsline{toc}{section}{Приложение}
+
+\newpage
+
+\subsection*{Листинг программы}
+\addcontentsline{toc}{subsection}{Листинг программы}
+
+
+\end{document}
