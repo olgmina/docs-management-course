@@ -1,0 +1,75 @@
+\documentclass{article}
+
+% Подключение пакетов для настройки документа
+\usepackage[utf8]{inputenc} % Кодировка документа
+\usepackage[T1]{fontenc} % Кодировка шрифтов
+\usepackage[english]{babel} % Язык документа
+\usepackage{geometry} % Настройка полей страницы
+\usepackage{fancyhdr} % Настройка верхнего и нижнего колонтитулов
+\usepackage{enumitem} % Настройка списков
+\usepackage{titlesec} % Настройка заголовков
+
+% Настройка полей страницы
+\geometry{
+    a4paper,
+    left=2cm,
+    right=2cm,
+    top=2cm,
+    bottom=2cm,
+}
+
+% Настройка верхнего и нижнего колонтитулов
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{Your Name}
+\lhead{Project Documentation Management Process Template}
+\rfoot{Page \thepage}
+
+% Настройка списков
+\setlist[itemize]{noitemsep} % Удаление отступов между пунктами списка
+
+% Настройка заголовков
+\titleformat{\section}{\normalfont\large\bfseries}{\thesection}{1em}{}
+\titleformat{\subsection}{\normalfont\normalsize\bfseries}{\thesubsection}{1em}{}
+
+% Начало документа
+\begin{document}
+
+% Титульная страница
+\title{\textbf{Project Documentation Management Process Template}}
+\author{Your Name}
+\date{\today}
+\maketitle
+
+% Содержание
+\tableofcontents
+\newpage
+
+% Введение
+\section{Introduction}
+This document outlines the process for managing project documentation. It provides guidelines and best practices for creating, organizing, and maintaining project documentation throughout the project lifecycle.
+
+% Основная часть
+\section{Document Creation}
+\subsection{Document Types}
+Describe the different types of project documentation that need to be created, such as project charters, requirements documents, design specifications, etc.
+
+\subsection{Document Templates}
+Provide a list of available document templates for each document type, including their purpose, format, and any specific guidelines for using them.
+
+\subsection{Document Creation Process}
+Outline the steps involved in creating project documentation, including identifying the document needs, gathering necessary information, and drafting the document.
+
+% ...
+% Продолжение основной части
+
+% Заключение
+\section{Conclusion}
+Summarize the importance of effective project documentation management and highlight the key takeaways from the process template.
+
+% Список литературы (если необходимо)
+% \section{References}
+% Include any references or resources used in creating the process template.
+
+% Конец документа
+\end{document}
