@@ -4,7 +4,7 @@
 
 Сценарий "Управление разработкой ПО"
 
-![Image alt](picture/Управление разработкой ПО.drawio.png)
+![Software_Development_Management](picture/Software_Development_Management.png)
 
 ## Построение диаграммы деятельности
 
