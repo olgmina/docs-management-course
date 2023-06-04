@@ -10,7 +10,7 @@
 
 Деятельность "Процесс разработки ПО"
 
-(включите свою диаграмму)
+![Software_Development_Process](https://github.com/anna5812m/docs-management-course/raw/amorgunova/picture/Software_development_process.png)
 
 ## Построение диаграммы состояний и переходоа
 
