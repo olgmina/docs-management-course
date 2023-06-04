@@ -19,7 +19,9 @@
 Задание 3. Управление конфигурацией - это процесс, направленный на эффективное управление конфигурацией программных средств в течение всего их жизненного цикла, включающий в себя определение, документирование, контроль, координацию и верификацию изменений в конфигурации программных средств.
 
 Задание 4. Процесс управления конфигурациями
-[![image](https://user-images.githubusercontent.com/65451923/230900375-94036da9-cfd6-42d3-abf7-5b9d40559fe0.png)]:  #
+<!---
+![image](https://user-images.githubusercontent.com/65451923/230900375-94036da9-cfd6-42d3-abf7-5b9d40559fe0.png)
+--->
 
 ![configuration_management](https://github.com/anna5812m/docs-management-course/raw/amorgunova/picture/configuration_management.png)
 
