@@ -26,19 +26,19 @@
 
 Artifact Repositories – это инструменты, которые используются для хранения и управления бинарными файлами в отличии от систем контроля версий, такими как программные пакеты, библиотеки и другие зависимости. Примеры: MyGet, nmp, Индекс пакетов Python (PyPI)
 Результат - критерий /таблица
-| Criterion | Nexus | JFrog Artifactory | Apache Archiva |
-| --- | --- | --- | --- |
-| License | Proprietary | Proprietary/Open Source | Open Source |
-| Supported package types | Java, Node.js, Ruby, Docker, Pyton, .NET, Golang | Java, Node.js, Ruby, Docker, Pyton, .NET, Golang, Perl, PHP, Chef, Puppet, CocoaPods, Gradle, Maven | Java, Node.js, Ruby, Pyton, Maven |
-| Integration with CI/CD tools | Yes | Yes | Yes |
-| Proxying and caching | Yes | Yes | Yes |
-| Search functionality | Yes | Yes | Yes |
-| User management | Yes | Yes | Yes |
-| Content and access control | Yes | Yes | Yes |
-| Security vulnerabilities scanning | Yes | Yes | No |
-| REST API | Yes | Yes | Yes |
-| Cost | Starts at $10/month | Starts at $39/month | Free |
-| Community support | Yes | Yes | Yes |
+| Criterion | Nexus | JFrog Artifactory | Apache Archiva | MyGet | nmp | GitHub Packages |
+| --- | --- | --- | --- | --- | --- | --- |
+| License | Proprietary | Proprietary/Open Source | Open Source | Proprietary | Open Source | Open Source |
+| Supported package types | Java, Node.js, Ruby, Docker, Pyton, .NET, Golang | Java, Node.js, Ruby, Docker, Pyton, .NET, Golang, Perl, PHP, Chef, Puppet, CocoaPods, Gradle, Maven | Java, Node.js, Ruby, Pyton, Maven | NuGet, npm, Bower, VSIX, PowerShell, Python, RubyGems, Maven, Docker | Node.js-пакеты, nmp | npm, Docker, NuGet, RubyGems, Maven, PyPI, PHP Composer |
+| Integration with CI/CD tools | Yes | Yes | Yes | Yes | Yes | Yes |
+| Proxying and caching | Yes | Yes | Yes | Yes | No | Yes |
+| Search functionality | Yes | Yes | Yes | Yes | Yes | Yes |
+| User management | Yes | Yes | Yes | Yes | No | Yes |
+| Content and access control | Yes | Yes | Yes | Yes | No | Yes |
+| Security vulnerabilities scanning | Yes | Yes | No | Yes | No | Yes |
+| REST API | Yes | Yes | Yes | Yes | Yes | Yes |
+| Cost | Starts at $10/month | Starts at $39/month | Free | Starts at $165/year | Free | Free |
+| Community support | Yes | Yes | Yes | Yes | Yes | Yes |
 
 Задание 6. Архитектура системы контроля версий
 
