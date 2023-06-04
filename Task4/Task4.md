@@ -20,9 +20,6 @@
 
 ## Построение диаграммы классов
 
-Инд. задание: описание документа разработки ПО
+Инд. задание: Описание документа Политика разработки ПО
 
-(включите свою диаграмму)
-
-(назовите документ)
-
+![test_results_report](https://github.com/anna5812m/docs-management-course/raw/amorgunova/picture/test_results_report.png)
