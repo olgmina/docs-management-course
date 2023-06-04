@@ -16,7 +16,7 @@
 
 Описание состояний и переходов "Отчет о результатах тестирования"
 
-![test_result_report](https://github.com/anna5812m/docs-management-course/raw/amorgunova/picture/test_result_report.png)
+![test_results_report](https://github.com/anna5812m/docs-management-course/raw/amorgunova/picture/test_results_report.png)
 
 ## Построение диаграммы классов
 
