@@ -22,4 +22,4 @@
 
 Инд. задание: Описание документа Политика разработки ПО
 
-![test_results_report](https://github.com/anna5812m/docs-management-course/raw/amorgunova/picture/test_results_report.png)
+![politics](https://github.com/anna5812m/docs-management-course/raw/amorgunova/picture/Politics.png)
