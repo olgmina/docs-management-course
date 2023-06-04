@@ -4,7 +4,7 @@
 
 Сценарий "Управление разработкой ПО"
 
-![Image alt](https://github.com/anna5812m/docs-management-course/raw/amorgunova/picture/Software_Development_Management.png)
+![Image alt](picture/Управление разработкой ПО.drawio.png)
 
 ## Построение диаграммы деятельности
 
