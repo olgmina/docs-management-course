@@ -41,7 +41,7 @@
 Задание 3. 
 
 Задание 4. Процесс представить в виде UML-диаграммы
-![image](https://user-images.githubusercontent.com/65451923/230900375-94036da9-cfd6-42d3-abf7-5b9d40559fe0.png)
+![image](blob:https://web.telegram.org/cfd4a02b-6448-49df-afe7-12849517df47)
 
 Задание - Тесты исправить
 
