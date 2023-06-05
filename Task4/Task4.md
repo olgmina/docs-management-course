@@ -4,22 +4,25 @@
 
 Сценарий "Управление разработкой ПО"
 
-![Software_Development_Management](https://github.com/anna5812m/docs-management-course/raw/amorgunova/picture/Software_Development_Management.png)
+(включите свою диаграмму)
 
 ## Построение диаграммы деятельности
 
 Деятельность "Процесс разработки ПО"
 
-![Software_Development_Process](https://github.com/anna5812m/docs-management-course/raw/amorgunova/picture/Software_development_process.png)
+(включите свою диаграмму)
 
 ## Построение диаграммы состояний и переходоа
 
-Описание состояний и переходов "Отчет о результатах тестирования"
+Описание состояний и переходов программного проекта
 
-![test_results_report](https://github.com/anna5812m/docs-management-course/raw/amorgunova/picture/test_results_report.png)
+(включите свою диаграмму)
 
 ## Построение диаграммы классов
 
-Инд. задание: Описание документа Политика разработки ПО
+Инд. задание: описание документа разработки ПО
 
-![politics](https://github.com/anna5812m/docs-management-course/raw/amorgunova/picture/Politics.png)
+(включите свою диаграмму)
+
+(назовите документ)
+
