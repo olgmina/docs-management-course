@@ -43,13 +43,20 @@
 ----
 
 ## Open source licensing info
+
 1. [TERMS](TERMS.md)
 2. [LICENSE](LICENSE)
 3. [CFPB Source Code Policy](https://github.com/cfpb/source-code-policy/)
 
-
 ----
 
 ## Источники и справочники
+
 1. Проекты, которые вдохновили: IRN.RU.
 2. Все расчеты, реализованные в проекте, производятся на основе Закона Воронежской области от 30.11.2005 N 81-ОЗ и приказа Минстроя РФ от 14.09.1992 N 209.
+
+----
+
+## Инструкция по заполнению
+
+Шаблон репозитория проекта составлен в соответствии с [инструкцией по заполнению](https://github.com/annaeve/docs-management-course/blob/tasks-Doinikova/Task1/README.md).
