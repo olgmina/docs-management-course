@@ -18,7 +18,22 @@
 
    A. Поиск литературы 
    
-      1. Источники данных и поисковые запросы 
+      1. Источники данных и поисковые запросы
+      
+      https://www.axiomadev.com/blog/exploring-the-potential-of-personal-ai-assistants/
+      
+      https://plainenglish.io/blog/creating-an-ai-powered-personal-assistant-with-chatgpt-and-python
+      
+      https://merge.rocks/blog/how-to-build-an-ai-assistant-for-your-business-or-yourself
+      
+      https://www.craft.do/blog/ai-virtual-assistants
+      
+      https://www.mdpi.com/2076-3417/11/22/10618
+      
+      https://www.sciencedirect.com/science/article/abs/pii/S0957417420300191
+      
+      https://www.scirp.org/journal/paperinformation.aspx?paperid=111666
+      
       
       2. Критерии включения и исключения 
       
