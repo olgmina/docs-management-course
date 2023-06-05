@@ -36,5 +36,5 @@
 ![photo_5472343395658746454_x](https://github.com/LevSebelev/docs-management-course/assets/113666462/f9b8c1f3-ea6e-4de5-9186-5bf269d83d29)
 
 
-(назовите документ)
+
 
