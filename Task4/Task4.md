@@ -4,25 +4,22 @@
 
 Сценарий "Управление разработкой ПО"
 
-(включите свою диаграмму)
+![Software_Development_Management](https://github.com/ppssppnt/docs-management-course/blob/vel/picture/photo_5472343395658746438_x.jpg?raw=true)
 
 ## Построение диаграммы деятельности
 
 Деятельность "Процесс разработки ПО"
 
-(включите свою диаграмму)
+![Software_Development_Process](https://github.com/ppssppnt/docs-management-course/blob/vel/picture/photo_5472343395658746444_y.jpg?raw=true)
 
 ## Построение диаграммы состояний и переходоа
 
-Описание состояний и переходов программного проекта
+Описание состояний и переходов "Отчет о результатах тестирования"
 
-(включите свою диаграмму)
+![test_results_report](https://github.com/ppssppnt/docs-management-course/blob/vel/picture/photo_5472343395658746447_y.jpg?raw=true)
 
 ## Построение диаграммы классов
 
-Инд. задание: описание документа разработки ПО
+Инд. задание: Описание документа Политика разработки ПО
 
-(включите свою диаграмму)
-
-(назовите документ)
-
+![politics](https://github.com/ppssppnt/docs-management-course/blob/vel/picture/photo_5472343395658746454_x.jpg?raw=true)
