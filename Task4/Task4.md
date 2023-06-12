@@ -6,11 +6,17 @@
 
 (включите свою диаграмму)
 
+![photo_5472343395658746438_x](https://github.com/LevSebelev/docs-management-course/assets/113666462/fb6bc76a-0454-4928-af09-81a1ab9e846c)
+
+
 ## Построение диаграммы деятельности
 
 Деятельность "Процесс разработки ПО"
 
 (включите свою диаграмму)
+
+![photo_5472343395658746444_y](https://github.com/LevSebelev/docs-management-course/assets/113666462/90f8fae7-c102-4208-b3b9-2f894d91bea9)
+
 
 ## Построение диаграммы состояний и переходоа
 
@@ -18,11 +24,17 @@
 
 (включите свою диаграмму)
 
+![photo_5472343395658746447_y](https://github.com/LevSebelev/docs-management-course/assets/113666462/a4f172d1-ccd3-4c80-85f1-e21d9ca65c9d)
+
+
 ## Построение диаграммы классов
 
 Инд. задание: описание документа разработки ПО
 
 (включите свою диаграмму)
 
-(назовите документ)
+![photo_5472343395658746454_x](https://github.com/LevSebelev/docs-management-course/assets/113666462/f9b8c1f3-ea6e-4de5-9186-5bf269d83d29)
+
+
+
 
