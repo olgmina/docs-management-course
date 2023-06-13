@@ -38,6 +38,21 @@
       
       https://habr.com/ru/companies/vk/articles/409173/
       
+      https://www.startupgrind.com/blog/how-to-build-your-own-artificial-intelligence-personal-assistant/
+      
+      https://www.instructables.com/Build-Your-Own-AI-Artificial-Intelligence-Assistan/
+      
+      https://zapier.com/blog/personal-ai/
+      
+      https://coderlessons.com/articles/veb-razrabotka-articles/kak-sozdat-svoi-sobstvennyi-ai-ai-assistant-s-pomoshchiu-api-ai
+      
+      https://habr.com/ru/companies/bashnipineft/articles/510820/
+      
+      https://blog.skillfactory.ru/chto-takoe-golosovye-pomoshhniki-i-kak-ih-sozdayut/
+      
+      https://ya.zerocoder.ru/pgt-openai-i-python-sozdanie-personalnogo-ai-assistenta/     
+      
+      
       2. Критерии включения и исключения 
       
       1. Актуальность:
