@@ -7,7 +7,8 @@
 
 **Скриншот рабочего окна приложения**: 
 
-![](![image](https://github.com/LevSebelev/docs-management-course/assets/113666462/e4ce266b-7a00-40e1-9b49-0c5715f8ff66)
+![](![image](https://github.com/LevSebelev/docs-management-course/assets/113666462/9668b7f7-4c0b-4b7a-8176-4e7d9d5a09c2)
+
 
 
 
