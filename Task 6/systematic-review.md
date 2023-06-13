@@ -81,7 +81,19 @@
       
       На основании проведенного анализа в соответствие с критериями выбора для дальнейшего исследования были выбраны следующие статьи:
      
-       https://merge.rocks/blog/how-to-build-an-ai-assistant-for-your-business-or-yourself
+      https://merge.rocks/blog/how-to-build-an-ai-assistant-for-your-business-or-yourself
+      
+      https://plainenglish.io/blog/creating-an-ai-powered-personal-assistant-with-chatgpt-and-python
+      
+      https://www.startupgrind.com/blog/how-to-build-your-own-artificial-intelligence-personal-assistant/
+      
+      https://zapier.com/blog/personal-ai/
+      
+      https://blog.skillfactory.ru/chto-takoe-golosovye-pomoshhniki-i-kak-ih-sozdayut/
+      
+      https://ya.zerocoder.ru/pgt-openai-i-python-sozdanie-personalnogo-ai-assistenta/
+      
+      Таким образом, в результате просевания по релевантности было "отброшено" 62,5% статей.
       
       2. Оценка качества статей 
       
