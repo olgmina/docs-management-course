@@ -8,8 +8,8 @@
 **Скриншот рабочего окна приложения**: 
 
 
-[image](https://github.com/LevSebelev/docs-management-course/assets/113666462/3f614f75-9e0f-4a63-812d-4ee71e57c46e)
-
+![](![image](https://github.com/LevSebelev/docs-management-course/assets/113666462/e4ce266b-7a00-40e1-9b49-0c5715f8ff66)
+)
 
 
 ## Зависимости
@@ -49,21 +49,22 @@
 Я пользовался учебными методичками и пособиями, которые нам предоставил преподаватель, по написанию программ на Java
 ## Пример кода 
 
-```C++
-#include "Header.h"
-#include "stdio.h"
-#include "stdlib.h"
+```Java
+package model;
 
-#define NOT_INITIALIZATE -1
+import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.List;
 
-//timer
-int gl_time = 0;
-int MAXH, MAXW, WHSIZE, WWSIZE;
-#define MAX_BUILDERS 6
-#define MAX_ROADT 2
+public class kalc
+{
 
-SDL_Texture* road_tmpt = NULL;
-SDL_Texture* hudt = NULL;
-SDL_Texture* mn = NULL;
-SDL_Texture* fog_t = NULL;
-```
+    protected List NameSet = new ArrayList();
+    protected List CountSet = new ArrayList();
+    protected List PowerSet = new ArrayList();
+    public String getit(int n) {
+        int i = 0;
+        Iterator iterator1 = NameSet.iterator();
+        Iterator iterator2 = CountSet.iterator();
+        Iterator iterator3= PowerSet.iterator();
+
