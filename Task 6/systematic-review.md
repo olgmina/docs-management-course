@@ -37,8 +37,8 @@
       https://vc.ru/services/637486-assistent-ili-konkurent-kak-iskusstvennyy-intellekt-stal-meynstrimom-i-chto-budet-dalshe-bonus-intervyu-s-neyrosetyu
       
       2. Критерии включения и исключения 
-     
-1. Актуальность:
+      
+      1. Актуальность:
    - Статьи, опубликованные в течение последних 6 месяцев, с учетом скорого развития AI.
    - Статьи, которые учитывают текущие вызовы и тенденции в разработке личных ассистентов.
 
