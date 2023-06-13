@@ -7,9 +7,8 @@
 
 **Скриншот рабочего окна приложения**: 
 
-
 ![](![image](https://github.com/LevSebelev/docs-management-course/assets/113666462/e4ce266b-7a00-40e1-9b49-0c5715f8ff66)
-)
+
 
 
 ## Зависимости
