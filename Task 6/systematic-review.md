@@ -36,6 +36,8 @@
       
       https://vc.ru/services/637486-assistent-ili-konkurent-kak-iskusstvennyy-intellekt-stal-meynstrimom-i-chto-budet-dalshe-bonus-intervyu-s-neyrosetyu
       
+      https://habr.com/ru/companies/vk/articles/409173/
+      
       2. Критерии включения и исключения 
       
       1. Актуальность:
