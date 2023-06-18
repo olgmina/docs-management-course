@@ -35,13 +35,13 @@ while ($true) {
 GhostWriter во многом похож на ChatGPT, поэтому я ввел предыдущий запрос в ChatGPT для сравнительного анализа и получил следующий ответ:
 $folderPath = "ПУТЬ_К_ПАПКЕ" # Замените на путь к папке, которую нужно мониторить
 
-# Создаем объект для мониторинга изменений в папке
+Создаем объект для мониторинга изменений в папке
 $watcher = New-Object System.IO.FileSystemWatcher
 $watcher.Path = $folderPath
 $watcher.IncludeSubdirectories = $false
 $watcher.EnableRaisingEvents = $true
 
-# Определяем событие при изменении содержимого папки
+Определяем событие при изменении содержимого папки
 $onChange = Register-ObjectEvent $watcher "Changed" -Action {
     $folder = $eventArgs.FullPath
     $changeType = $eventArgs.ChangeType
@@ -49,7 +49,7 @@ $onChange = Register-ObjectEvent $watcher "Changed" -Action {
     Write-Host $message
 }
 
-# Ожидаем завершения скрипта (нажатия Ctrl+C)
+Ожидаем завершения скрипта (нажатия Ctrl+C)
 Write-Host "Мониторинг папки '$folderPath' запущен. Нажмите Ctrl+C для выхода."
 
 try {
